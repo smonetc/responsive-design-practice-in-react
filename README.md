@@ -1,1 +1,1 @@
-# Practicing Responsive Design in React
+#### Practicing Responsive Design in React
